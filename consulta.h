@@ -1,0 +1,6 @@
+#ifndef CONSULTA_H_INCLUDED
+#define CONSULTA_H_INCLUDED
+
+
+
+#endif // CONSULTA_H_INCLUDED

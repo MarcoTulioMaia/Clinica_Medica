@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1670260427 source:c:\users\usuario\desktop\aeds1\projeto\interface.c
+	"interface.h"
+
+1670260113 source:c:\users\usuario\desktop\aeds1\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1669828572 c:\users\usuario\desktop\aeds1\projeto\interface.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1670259900 source:c:\users\usuario\desktop\aeds1\projeto\paciente.c
+	<stdio.h>
+	"paciente.h"
+
+1669829714 c:\users\usuario\desktop\aeds1\projeto\paciente.h
+
+1670676119 source:c:\users\usuario\desktop\projeto\interface.c
+	"interface.h"
+
+1669828572 c:\users\usuario\desktop\projeto\interface.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1670682628 source:c:\users\usuario\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1670681660 source:c:\users\usuario\desktop\projeto\paciente.c
+	<stdio.h>
+	"paciente.h"
+
+1669829714 c:\users\usuario\desktop\projeto\paciente.h
+
+1670675769 source:c:\users\usuario\desktop\projeto\medico.c
+
+1670681123 source:c:\users\usuario\desktop\projeto\consulta.c
+
+1670681123 source:c:\users\55389\onedrive\documentos\projetos.c\projeto.c\consulta.c
+
+1670676119 source:c:\users\55389\onedrive\documentos\projetos.c\projeto.c\interface.c
+	"interface.h"
+
+1669828572 c:\users\55389\onedrive\documentos\projetos.c\projeto.c\interface.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1670683176 source:c:\users\55389\onedrive\documentos\projetos.c\projeto.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1670675769 source:c:\users\55389\onedrive\documentos\projetos.c\projeto.c\medico.c
+
+1670681660 source:c:\users\55389\onedrive\documentos\projetos.c\projeto.c\paciente.c
+	<stdio.h>
+	"paciente.h"
+
+1669829714 c:\users\55389\onedrive\documentos\projetos.c\projeto.c\paciente.h
+
